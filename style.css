@@ -389,7 +389,7 @@ header nav .search i {
 }
 
 .lighter-div .exp {
-  height: 30vh;
+  height: 15vh;
   width: 50vw;
   position: relative;
   margin-left: 20vh;
@@ -417,12 +417,12 @@ header nav .search i {
 
 .exp-desc::before {
   content: "";
-  height: 190px;
+  height: 100px;
   width: 2.5px;
   background-color: #fbfbfb;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 55%;
+  top: 65%;
   left: -5%;
 }
 .exp-desc h3 {
@@ -437,6 +437,13 @@ header nav .search i {
   font-size: 16;
   font-weight: 400;
 }
+
+.exp-desc li {
+  color: #fbfbfb;
+  font-size: 16;
+  font-weight: 400;
+}
+
 
 .contact-me {
   width: 100vw;
