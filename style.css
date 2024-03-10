@@ -197,7 +197,7 @@ header nav .search i {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 50px 100px;
+  padding: 150px 100px;
 }
 
 .skills h1 {
@@ -355,7 +355,7 @@ header nav .search i {
 .experience {
   display: flex;
   flex-direction: column;
-  /* height: 100vh; */
+  height: 100vh; 
   width: 100vw;
   position: relative;
   align-items: center;
